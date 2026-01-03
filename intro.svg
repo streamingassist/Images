@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <defs>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF914D"/>
+      <stop offset="50%" stop-color="#FF6B3A"/>
+      <stop offset="100%" stop-color="#FB5F3D"/>
+    </linearGradient>
+  </defs>
+  <text
+    x="200"
+    y="110"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="SF Pro Display, Helvetica, Arial, sans-serif"
+    font-size="56"
+    font-weight="800"
+    letter-spacing="-1"
+    fill="url(#textGrad)">StreamTv</text>
+  <text
+    x="200"
+    y="150"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="SF Pro Display, Helvetica, Arial, sans-serif"
+    font-size="22"
+    font-weight="600"
+    letter-spacing="0"
+    fill="url(#textGrad)">è finalmente arrivato.</text>
+</svg>
